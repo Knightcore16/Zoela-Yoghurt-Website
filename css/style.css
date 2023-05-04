@@ -274,6 +274,7 @@ button {
 .navbar-brand {
     margin: 0px;
     float: right;
+    width: 15%;
 }
 
 .navbar {
