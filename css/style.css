@@ -8,7 +8,7 @@
 @import url(icomoon.css);
 @import url(css/font-awesome.min.css);
 @import url(meanmenu.css);
-@import url(owl.carousel.min.css);
+/* @import url(owl.carousel.min.css); */
 @import url(swiper.min.css);
 @import url(slick.css);
 @import url(jquery.fancybox.min.css);
@@ -283,8 +283,10 @@ button {
 }
 
 .navbar {
-    padding: 15px 50px;
+    padding: 15px 20px;
 }
+
+
 
 .user_icon {
     padding-right: 15px;
@@ -439,26 +441,26 @@ button {
     background-color: #4a4949;
 }
 
-.banner_img {
+/* .banner_img {
     border-radius: 20%;
-}
+} */
 
-.banner_img img {
+/* .banner_img img {
     width: 1000px;
     margin-left: 50px;
     
-}
+} */
 
-.banner_img2 img {
-    width: 2000px;
+/* .banner_img2 img {
+    width: 1000px;
     margin-left: -5px;
     margin-top: 80px;
-}
+} */
 
-.banner_img3 img {
+/* .banner_img3 img {
     margin-left: -45px;
-    /* margin-top: 80px; */
-}
+    margin-top: 80px;
+} */
 
 /* banner section end */
 
@@ -501,7 +503,7 @@ button {
 .types_text {
     width: 100%;
     float: left;
-    font-size: 22px;
+    font-size: 20px;
     color: #3b3b3b;
     text-align: center;
     font-weight: bold;
@@ -719,7 +721,7 @@ border:1px solid #ECECEC;
 #customers-testimonials .item {
     text-align: center;
     padding: 50px;
-        margin-bottom:80px;
+        margin-bottom:10px;
     opacity: .2;
     -webkit-transform: scale3d(0.8, 0.8, 1);
     transform: scale3d(0.8, 0.8, 1);
@@ -1012,7 +1014,7 @@ textarea#comment.massage-bt::placeholder {
 
 #product1 .pro .des h4 {
     padding-top: 7px;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 700;
     color: #088178;
 }
@@ -1030,6 +1032,7 @@ textarea#comment.massage-bt::placeholder {
     bottom: 20px;
     right: 10px;
 }
+
 
 
 /* Reponiveness */
