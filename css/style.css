@@ -241,6 +241,11 @@ button {
     color: #ffffff;
 }
 
+.logo-nav {
+    margin-top: -20px;
+    width: 120%;
+}
+
 .bg-light {
     background-color: transparent !important;
 }
@@ -434,9 +439,14 @@ button {
     background-color: #4a4949;
 }
 
+.banner_img {
+    border-radius: 20%;
+}
+
 .banner_img img {
     width: 1000px;
     margin-left: 50px;
+    
 }
 
 .banner_img2 img {
